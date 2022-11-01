@@ -25,3 +25,7 @@ Please check the <a href="CONTRIBUTING.md">contribution guidelines</a> for infor
    - [Articles](#articles)
    - [Podcasts](#podcasts)
    - [YouTube channels](#youtube)
+
+
+#### DeSci events Calendar 
+[Events calendar](https://www.desci.global/)
